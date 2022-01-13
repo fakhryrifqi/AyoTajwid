@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/belajarAct"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="10dp"
+    android:background="@drawable/bg2"
+    android:orientation="horizontal"
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintLeft_toLeftOf="parent"
+    app:layout_constraintRight_toRightOf="parent"
+    tools:context=".BelajarActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <HorizontalScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="30dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:paddingBottom="50dp"
+            android:scrollbars="none">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent">
+
+                <ImageButton
+                    android:id="@+id/nunSukun"
+                    android:layout_width="250dp"
+                    android:layout_height="250dp"
+                    android:background="@drawable/h_nun"/>
+
+                <ImageButton
+                    android:id="@+id/mimSukun"
+                    android:layout_width="250dp"
+                    android:layout_height="250dp"
+                    android:background="@drawable/h_mim"/>
+
+                <ImageButton
+                    android:id="@+id/mad"
+                    android:layout_width="250dp"
+                    android:layout_height="250dp"
+                    android:background="@drawable/h_mad"/>
+
+                <ImageButton
+                    android:id="@+id/lam"
+                    android:layout_width="250dp"
+                    android:layout_height="250dp"
+                    android:background="@drawable/h_lam"/>
+
+                <ImageButton
+                    android:id="@+id/ra"
+                    android:layout_width="250dp"
+                    android:layout_height="250dp"
+                    android:background="@drawable/h_ra"/>
+
+                <ImageButton
+                    android:id="@+id/idgham"
+                    android:layout_width="250dp"
+                    android:layout_height="250dp"
+                    android:background="@drawable/h_idgham"/>
+
+                <ImageButton
+                    android:id="@+id/ghunnah"
+                    android:layout_width="250dp"
+                    android:layout_height="250dp"
+                    android:background="@drawable/h_ghunnah"/>
+
+                <ImageButton
+                    android:id="@+id/qalqalah"
+                    android:layout_width="250dp"
+                    android:layout_height="250dp"
+                    android:background="@drawable/h_qalqalah"/>
+
+            </LinearLayout>
+
+        </HorizontalScrollView>
+
+        <ImageButton
+            android:id="@+id/back"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/btn_back" />
+
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

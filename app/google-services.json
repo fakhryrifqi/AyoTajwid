@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083968500356",
+    "project_id": "ayo-tajwid",
+    "storage_bucket": "ayo-tajwid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083968500356:android:93a12341da3cc8171448d1",
+        "android_client_info": {
+          "package_name": "com.example.ayotajwid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083968500356-10q1ccig8hliphlhqgmkvj5rj5jvk65u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQXyz-gOGvxF0R0vcsDvQbHHaQh7oqtPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083968500356-10q1ccig8hliphlhqgmkvj5rj5jvk65u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

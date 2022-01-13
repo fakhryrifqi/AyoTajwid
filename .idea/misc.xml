@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kuliah/Matkul Pilihan/PABS/Ayo Tajwid/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/Kuliah/Matkul Pilihan/PABS/Ayo Tajwid/app/src/main/res/drawable/progress_bar.xml" value="0.2203125" />
+        <entry key="..\:/Kuliah/Matkul Pilihan/PABS/Ayo Tajwid/app/src/main/res/drawable/rounded_corner.xml" value="0.2203125" />
+        <entry key="..\:/Kuliah/Matkul Pilihan/PABS/Ayo Tajwid/app/src/main/res/drawable/rounded_corner_little.xml" value="0.2203125" />
+        <entry key="..\:/Kuliah/Matkul Pilihan/PABS/Ayo Tajwid/app/src/main/res/layout/activity_audio.xml" value="0.18885869565217392" />
+        <entry key="..\:/Kuliah/Matkul Pilihan/PABS/Ayo Tajwid/app/src/main/res/layout/activity_belajar.xml" value="0.15" />
+        <entry key="..\:/Kuliah/Matkul Pilihan/PABS/Ayo Tajwid/app/src/main/res/layout/activity_ghunnah.xml" value="0.15896739130434784" />
+        <entry key="..\:/Kuliah/Matkul Pilihan/PABS/Ayo Tajwid/app/src/main/res/layout/activity_idgham.xml" value="0.16" />
+        <entry key="..\:/Kuliah/Matkul Pilihan/PABS/Ayo Tajwid/app/src/main/res/layout/activity_idzhar.xml" value="0.16893115942028986" />
+        <entry key="..\:/Kuliah/Matkul Pilihan/PABS/Ayo Tajwid/app/src/main/res/layout/activity_instruksi.xml" value="0.22" />
+        <entry key="..\:/Kuliah/Matkul Pilihan/PABS/Ayo Tajwid/app/src/main/res/layout/activity_lam.xml" value="0.17844202898550723" />
+        <entry key="..\:/Kuliah/Matkul Pilihan/PABS/Ayo Tajwid/app/src/main/res/layout/activity_mad.xml" value="0.17844202898550723" />
+        <entry key="..\:/Kuliah/Matkul Pilihan/PABS/Ayo Tajwid/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Kuliah/Matkul Pilihan/PABS/Ayo Tajwid/app/src/main/res/layout/activity_mim.xml" value="0.17844202898550723" />
+        <entry key="..\:/Kuliah/Matkul Pilihan/PABS/Ayo Tajwid/app/src/main/res/layout/activity_nun.xml" value="0.2" />
+        <entry key="..\:/Kuliah/Matkul Pilihan/PABS/Ayo Tajwid/app/src/main/res/layout/activity_qalqalah.xml" value="0.15896739130434784" />
+        <entry key="..\:/Kuliah/Matkul Pilihan/PABS/Ayo Tajwid/app/src/main/res/layout/activity_quiz.xml" value="0.22" />
+        <entry key="..\:/Kuliah/Matkul Pilihan/PABS/Ayo Tajwid/app/src/main/res/layout/activity_ra.xml" value="0.17844202898550723" />
+        <entry key="..\:/Kuliah/Matkul Pilihan/PABS/Ayo Tajwid/app/src/main/res/layout/activity_score.xml" value="0.20416666666666666" />
+        <entry key="..\:/Kuliah/Matkul Pilihan/PABS/Ayo Tajwid/app/src/main/res/layout/activity_splash.xml" value="0.18" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

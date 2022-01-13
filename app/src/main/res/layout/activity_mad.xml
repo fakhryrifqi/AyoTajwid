@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/madAct"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:orientation="horizontal"
+    tools:context=".MadActivity">
+
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="30dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+
+            <ImageButton
+                android:id="@+id/madThobii"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="@drawable/mad_thobii"/>
+
+            <ImageButton
+                android:id="@+id/madWajibMuttasil"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="@drawable/mad_wajib"/>
+
+            <ImageButton
+                android:id="@+id/madJaizMunfasil"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="@drawable/mad_jaiz"/>
+
+            <ImageButton
+                android:id="@+id/madMukhaffafKilmi"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="@drawable/mad_mukhaffaf_kilmi"/>
+
+            <ImageButton
+                android:id="@+id/madMutsaqqalKilmi"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="@drawable/mad_mutsaqqal_kilmi"/>
+
+            <ImageButton
+                android:id="@+id/madShilahQashirah"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="@drawable/mad_shilah_qashirah"/>
+
+            <ImageButton
+                android:id="@+id/madShilahThawilah"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="@drawable/mad_shilah_thawilah"/>
+
+            <ImageButton
+                android:id="@+id/madLayyin"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="@drawable/mad_layyin"/>
+
+            <ImageButton
+                android:id="@+id/madAridLissukun"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="@drawable/mad_arid_lissukun"/>
+
+            <ImageButton
+                android:id="@+id/madIwadl"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="@drawable/mad_iwadl"/>
+
+            <ImageButton
+                android:id="@+id/madBadal"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="@drawable/mad_badal"/>
+
+            <ImageButton
+                android:id="@+id/madLazimHarfiMukhaffaf"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="@drawable/mad_lazim_harfi_mukhaffaf"/>
+
+            <ImageButton
+                android:id="@+id/madLazimHarfiMutsaqqal"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="@drawable/mad_lazim_harfi_mutsaqqal"/>
+
+            <ImageButton
+                android:id="@+id/madTamkin"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="@drawable/mad_tamkin"/>
+
+            <ImageButton
+                android:id="@+id/madFarqi"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="@drawable/mad_farqi"/>
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+    <ImageButton
+        android:id="@+id/back"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/btn_back" />
+
+</RelativeLayout>
